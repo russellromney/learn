@@ -6,6 +6,15 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
+pandas = "*"
+flask = "*"
+flask-restful = "*"
+flask-jwt-extended = "*"
+dash = "*"
+dash-bootstrap-components = "*"
+flask-sqlalchemy = "*"
+django = "*"
+django-sqlalchemy = "*"
 
 [requires]
 python_version = "3.7"
