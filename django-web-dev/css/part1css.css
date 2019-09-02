@@ -1,0 +1,35 @@
+/* selected tag{
+    property: value;
+} */
+
+h1{
+    color: lightblue;
+}
+
+li{
+    color: rgba(123,123,123,0.1);
+}
+
+p{
+    color: #0895a8;
+}
+
+body{
+    background-color: gray;
+}
+
+div{
+    background: red;
+}
+
+div p{
+    background: yellow;
+}
+
+span{
+    background: blue;
+}
+
+#thisid{
+    background: white;
+}

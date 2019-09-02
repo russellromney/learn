@@ -1,0 +1,34 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+#box1{
+    background: #DAD6D6;
+}
+
+#box2{
+    background: #92BFB1;
+}
+
+#box3{
+    background: #F4AC45;
+}
+
+#box4{
+    background: #694A38;
+}
+
+#box5{
+    background: #A61C3C;
+}
+
+table{
+    margin: auto;
+}
+
+td{
+    height: 400px;
+    width: 125px;
+    border: 5px solid white;
+}
